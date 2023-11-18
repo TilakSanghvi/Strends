@@ -1,0 +1,2 @@
+# Strends
+An Enactus Project 
